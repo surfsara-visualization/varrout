@@ -40,6 +40,6 @@ Table guests:
 * Benjamin de Wit - Festival director and founder VR days; VR Days is a 3-day conference and exhibition on Virtual, Augmented and Mixed Reality content, creativity and innovation
 * Kristof Timmerman - The Immersive Lab of AP Hogeschool Antwerpen is a center of expertise that centralises and makes available to students, researchers, companies and non-profit organisations all ongoing research, acquired knowledge and technology on immersive media (virtual, augmented and mixed reality, omnidirectional video and hologram).
 
-![](./images/IMG_7055.JPG)
+<img src="./images/IMG_7055.JPG" style="width: 512px; border-radius: 18px">
 
-![](./images/IMG_7061.JPG)
+<img src="./images/IMG_7061.JPG" style="width: 512px; border-radius: 18px">
