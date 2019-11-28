@@ -4,10 +4,14 @@
 @import "{{ site.theme }}";
 
 header {
-  width:512px;
-  //float:left;
-  position:fixed;
-  //-webkit-font-smoothing:subpixel-antialiased;
+    width: 512px;
+    float: center;
+    position: fixed;
+    //-webkit-font-smoothing:subpixel-antialiased;
+}
+
+section {
+    float: center;
 }
 
 h1, h2, h3, h4, h5, h6 {
