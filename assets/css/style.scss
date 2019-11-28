@@ -3,27 +3,36 @@
 
 @import "{{ site.theme }}";
 
+@font-face {
+  font-family: 'proximanovasoft';
+  src: url('/fonts/proximanovasoft-bold-webfont.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'VarelaRound';
+  src: url('/fonts/VarelaRound-Regular.ttf') format('truetype');
+}
+
 header {
-    width: 50%;
+    width: 100%;
     float: none;
     position: static;
     //-webkit-font-smoothing:subpixel-antialiased;
 }
 
 section {
-    width: 50%;
+    width: 100%;
     float: none;
     position: static;
 }
 
 footer {
-    width: 50%;
+    width: 100%;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: "Proxima Soft", sans-serif;
+    font-family: proximanovasoft, sans-serif;
 }
 
 body {
-    font-family: "Source Sans Pro", sans-serif;
+    font-family: VarelaRound, sans-serif;
 }
