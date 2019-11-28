@@ -24,6 +24,12 @@
 * Politie Nederland, Roxy van de Langkruis, Creating a HoloLens application with and for crime scene investigators, Technology: HoloLens
 * Tobii Pro, Ellen Dorsman, Integrated eye tracking in HTC Vive Pro
 
+<img src="./images/IMG_20191108_112846.jpg" class="inline-centered">
+
+<img src="./images/IMG_20191108_115047.jpg" class="inline-centered">
+
+<img src="./images/IMG_20191108_113103.jpg" class="inline-centered">
+
 # VARR Out Special
 
 During the VARR Out Special, a discussion panel was presented with a number
