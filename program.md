@@ -26,7 +26,8 @@
 
 # VARR Out Special
 
-During the VARR out special, statements were presented in an interactive manner and introduced with videos and excerpts.
+During the VARR out special, a discussion panel was presented with a number
+of statements on the future of AR/VR/MR in an interactive manner and introduced with videos and excerpts.
 
 Host: Remco Rutten (SURF)
 
