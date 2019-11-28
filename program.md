@@ -29,6 +29,7 @@
 During the VARR out special, statements were presented in an interactive manner and introduced with videos and excerpts.
 
 Host: Remco Rutten (SURF)
+
 Side-kick: Robert Belleman (UvA)
 
 Table guests:
