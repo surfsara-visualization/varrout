@@ -29,6 +29,10 @@ footer {
     float: none;
     width: 100%;
     position: static;
+    
+    border-top-width: 5px;
+    border-top-style: solid;
+    border-top-color: rgb(103,103,103);    
 }
 
 h1, h2, h3, h4, h5, h6 {
