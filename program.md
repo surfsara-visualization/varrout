@@ -16,13 +16,13 @@
 
 # Demo market
 
-* Amsterdam University of Applied Sciences, Anne Marleen Olthof, Radiating Blossom, Designing liveable adventures in a virtual world. Technology: Oculus Go
-* AugmenIT, Tom Mensink, Augmented Reality (HoloLens): applications in health care, Technology: HoloLens
-* ESA and Heidelberg University, Sandor Kruk, GaiaSkyVR, Fly through the universe with this immersive experience based on measurements from ESA's Gaia mission. Technology: Oculus Rift
-* MedicalVR, Chris Hordijk, Anatomy lessons for the future, Technology: Oculus Rift
-* PleitVRIJ, Sylvia Moes, A virtual courtroom for students. Technology: Oculus Rift + green screen
-* Politie Nederland, Roxy van de Langkruis, Creating a HoloLens application with and for crime scene investigators, Technology: HoloLens
-* Tobii Pro, Ellen Dorsman, Integrated eye tracking in HTC Vive Pro
+* Amsterdam University of Applied Sciences, Anne Marleen Olthof - Radiating Blossom, Designing liveable adventures in a virtual world - Technology: Oculus Go
+* AugmenIT, Tom Mensink - Augmented Reality (HoloLens): applications in health care - Technology: HoloLens
+* ESA and Heidelberg University, Sandor Kruk - GaiaSkyVR, Fly through the universe with this immersive experience based on measurements from ESA's Gaia mission - Technology: Oculus Rift
+* MedicalVR, Chris Hordijk - Anatomy lessons for the future - Technology: Oculus Rift
+* PleitVRIJ, Sylvia Moes - A virtual courtroom for students - Technology: Oculus Rift + green screen
+* Politie Nederland, Roxy van de Langkruis - Creating a HoloLens application with and for crime scene investigators - Technology: HoloLens
+* Tobii Pro, Ellen Dorsman - Integrated eye tracking in HTC Vive Pro
 
 <img src="./images/IMG_20191108_112846.jpg" class="inline-centered">
 
