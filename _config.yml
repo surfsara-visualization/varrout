@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: VARR Out event 2019
 description: Slides and videos for the VARR Out event held on November 8th, 2019
-logo: images/varrout2019.png
+logo: ./images/varrout2019.png
