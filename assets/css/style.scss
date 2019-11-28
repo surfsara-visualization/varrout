@@ -4,15 +4,20 @@
 @import "{{ site.theme }}";
 
 header {
-    width: 512px;
+    width: 50%;
     float: none;
     position: static;
     //-webkit-font-smoothing:subpixel-antialiased;
 }
 
 section {
+    width: 50%;
     float: none;
     position: static;
+}
+
+footer {
+    width: 50%;
 }
 
 h1, h2, h3, h4, h5, h6 {
