@@ -39,3 +39,7 @@ Table guests:
 * Anne Marleen Olthof - Experienced lecturer and researcher Immersive Design XR; Virtual, Augmented, Mixed Reality at the Amsterdam University of Applied Sciences. Anne Marleen investigates the methodology and applicability of design tools to make the virtual world as sensory and intuitive as possible.
 * Benjamin de Wit - Festival director and founder VR days; VR Days is a 3-day conference and exhibition on Virtual, Augmented and Mixed Reality content, creativity and innovation
 * Kristof Timmerman - The Immersive Lab of AP Hogeschool Antwerpen is a center of expertise that centralises and makes available to students, researchers, companies and non-profit organisations all ongoing research, acquired knowledge and technology on immersive media (virtual, augmented and mixed reality, omnidirectional video and hologram).
+
+![](./images/IMG_7055.JPG)
+
+![](./images/IMG_7061.JPG)
