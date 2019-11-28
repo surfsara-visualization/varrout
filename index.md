@@ -1,6 +1,8 @@
 # Introduction
 
-Here you can find slides and videos for the VARR Out event held on November 8th, 2019
+Here you can find slides and videos for the VARR Out event held on November 8th, 2019.
+
+See [here](program.md) for the program of the event.
 
 # Presentation slides
 
@@ -30,4 +32,4 @@ Coming soon
 
 # Contact
 
-Please send an e-mail to varrout@surfsara.nl
+Please send an e-mail to [varrout@surfsara.nl](mailto:varrout@surfsara.nl)
