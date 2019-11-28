@@ -6,12 +6,13 @@
 header {
     width: 512px;
     float: none;
-    position: fixed;
+    position: static;
     //-webkit-font-smoothing:subpixel-antialiased;
 }
 
 section {
     float: none;
+    position: static;
 }
 
 h1, h2, h3, h4, h5, h6 {
