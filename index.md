@@ -4,8 +4,16 @@ Home
 
 Here you can find slides and videos for the VARR Out event held on November 8th, 2019.
 
-See [here](program) for the program of the event, including some
-photo impressions.
+In the event SURF joined forces together with the University of Amsterdam for the second time 
+to organize an event that's all about collaboration, information and inspiration. 
+There were presentations, student pitches, demonstrations and an interactive part; the VARR out Special about all kinds of hot topics about virtual, augmented and mixed reality.
+
+The event is aimed at researchers, PhDs, students, institutions' IT professionals (from research support to manager),
+or anyone interested in the application of AR/VR/MR for research.
+
+# Program and photos
+
+See [here](program) for the program of the event, including some photo impressions.
 
 # Presentation slides
 
