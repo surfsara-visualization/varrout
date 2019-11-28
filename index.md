@@ -25,7 +25,7 @@ Note: not all slide sets are available.
 
 * [Extending reality - Ethical and Social considerations](https://www.surf.nl/files/2019-11/3-ronde-2-varr-serf-doesborgh-rathenau_compressed.pdf), Serf Doesborgh, Rathenau Instituut
 
-* [Immersive Technologies for a Healthy Food Choice](https://www.surf.nl/files/2019-11/2-ronde-2-nynke-van-der-laan_191108varroutevent_compressed.pdf), Nynke van der Laan, Tilburg University
+* Immersive Technologies for a Healthy Food Choice, Nynke van der Laan, Tilburg University
 
 * [Improving anatomical knowledge of medical students through Virtual Reality](https://www.surf.nl/files/2019-11/2-ronde-1-chris-hordijk-varr-out-presentatie-medicalvr_compressed.pdf), Chris Hordijk, MedicalVR
 
