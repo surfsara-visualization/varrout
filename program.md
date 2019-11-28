@@ -1,6 +1,6 @@
 # Program
 
-* 09:00 -Registration
+* 09:00 - Registration
 * 09:30 - Opening by Remco Rutten (SURF)
 * 09:40 - Introduction Demo Market by Casper van Leeuwen (SURF)
 * 09:45 - 15-minute presentations - round 1
@@ -24,7 +24,7 @@
 
 # VARR Out Special
 
-During the VARR out special, statements are presented in an interactive manner and introduced with videos and excerpts.
+During the VARR out special, statements were presented in an interactive manner and introduced with videos and excerpts.
 
 Host: Remco Rutten (SURF)
 Side-kick: Robert Belleman (UvA)

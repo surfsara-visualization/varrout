@@ -2,7 +2,7 @@
 
 Here you can find slides and videos for the VARR Out event held on November 8th, 2019.
 
-See [here](program.md) for the program of the event.
+See [here](program) for the program of the event.
 
 # Presentation slides
 
