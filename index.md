@@ -35,12 +35,6 @@ Note: not all slide sets are available.
 
 * [The challenges we face while developing a HoloLens application for forensic practitioners](https://www.surf.nl/files/2019-11/3-ronde-1-roxy_varr_final_v1.0_compressed.pdf), Roxy van de Langkruis and Jurrien Bijhold, Regional Criminal Investigations Division, Regional Unit Amsterdam
 
-
-# Videos
-
-Coming soon
-
-
 # Contact
 
 Please send an e-mail to [varrout@surfsara.nl](mailto:varrout@surfsara.nl)
